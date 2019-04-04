@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AccesoMySQL</string>
     <string name="acceso_a_mysql">Acceso a MySQL</string>
+    <string name="textoBoton">Consultar DB</string>
+    <string name="mensajeVersion">Versión MySQL</string>
+    <string name="versionMySQL">version</string>
 </resources>
