@@ -8,9 +8,9 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="60dp"
+        android:layout_width="95dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="32dp"
         android:layout_marginTop="108dp"
         android:text="@string/mensajeVersion"
         app:layout_constraintStart_toStartOf="parent"
@@ -18,13 +18,13 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="59dp"
-        android:layout_height="17dp"
+        android:layout_width="225dp"
+        android:layout_height="22dp"
         android:layout_marginStart="10dp"
         android:layout_marginEnd="8dp"
         android:text="@string/versionMySQL"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.334"
+        app:layout_constraintHorizontal_bias="0.339"
         app:layout_constraintStart_toEndOf="@+id/textView2" />
 </android.support.constraint.ConstraintLayout>
