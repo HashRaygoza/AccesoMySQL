@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AccesoMySQL</string>
+    <string name="acceso_a_mysql">Acceso a MySQL</string>
 </resources>
