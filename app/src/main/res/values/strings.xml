@@ -4,4 +4,7 @@
     <string name="textoBoton">Consultar DB</string>
     <string name="mensajeVersion">Versión MySQL</string>
     <string name="versionMySQL">version</string>
+    <string name="etiquetaURL">URL</string>
+    <string name="etiquetaUsuario">Usuario</string>
+    <string name="etiquetaPassword">password</string>
 </resources>
